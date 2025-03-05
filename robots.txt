@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /admin/
 Disallow: /private/
 Allow: /
-Sitemap:https://ordervapeuk.github.io/crystal-galaxy-focus-30000/sitemap.xml
+Sitemap:https://crystal-galaxy-focus-30000.vercel.app/sitemap.xml
